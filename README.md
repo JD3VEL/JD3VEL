@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋🏻 ¡Hola! 👋🏻 Soy Juan Juan (JD3V)
+## 🧑🏻‍💻 Estudiante de Desarrollo de Aplicaciones Web y autodidacta 🧑🏻‍💻
 
 <!--
 **JD3VEL/JD3VEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
